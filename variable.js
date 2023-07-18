@@ -43,6 +43,11 @@
 // //x =  x+5;
 // console.log(x)
 
-let x =5;
-let z =(x + 5) /5;
+// let x =5;
+// let z =(x + 5) /5;
+// console.log(z)
+
+
+let x =3;
+let z =(x + 3) /5;
 console.log(z)
