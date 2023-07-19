@@ -67,7 +67,7 @@
 //     alert("you cannot vote");
 // }
 
-let isLoggdin = 1 //if 0 loggdout if 1 login
+//let isLoggdin = 1 //if 0 loggdout if 1 login
 
 // if(isLoggdin == 0){
 //     console.log("login")
