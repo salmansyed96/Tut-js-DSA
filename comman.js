@@ -25,22 +25,22 @@
     
 // }
 
-outer:for(let counter = 1 ; counter<= 10; counter++){
+// outer:for(let counter = 1 ; counter<= 10; counter++){
     
-    document.write(counter);
-    document.write('<br>')
+//     document.write(counter);
+//     document.write('<br>')
 
-    for(let counter2 =1; counter2 <3; counter2++){
+//     for(let counter2 =1; counter2 <3; counter2++){
 
-        if(counter ==3 ){
-            break outer;
-        }
+//         if(counter ==3 ){
+//             break outer;
+//         }
 
-        document.write('tech');
-        document.write('<br>');
-    }
+//         document.write('tech');
+//         document.write('<br>');
+//     }
     
-}
+// }
 
 //while(counter<= 10)
 
@@ -260,4 +260,36 @@ outer:for(let counter = 1 ; counter<= 10; counter++){
 // loop practicegirt
 
 // what is use while loop  
+
+
+
+
+
+//alert("welcome")
+
+// let age = prompt('Enter your age');
+
+// if(age !== null){
+//     document.write('your age is ${age}');
+// }
+// else{
+//     document.write('age field was blank');
+// }
+
+// let age = prompt('Enter your age',20);
+
+// if (age != null) {
+//   document.write(`Your age is ${age}`);
+// } else {
+//   document.write('Age field was blank');
+// }
+
+
+// let response = confirm('Are you Sure Delete?');
+// if(response){
+//     document.write('deleted')
+
+// }else{
+//     document.write('not delete')
+// }
 
