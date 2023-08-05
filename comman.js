@@ -293,3 +293,55 @@
 //     document.write('not delete')
 // }
 
+
+//Type Conversion
+// let type = "9" + null;
+// console.log(type);
+// console.log(typeof type);
+
+// let type = "5" * "yes";
+// console.log(type);
+// console.log(typeof type);
+
+// 1 String()
+// 2 number()
+// 3 Boolean()
+
+// let type = false;
+// console.log(typeof type);
+
+// let newType = String(type);
+// console.log(typeof newType)
+
+
+// let type = false;
+// console.log(typeof type); // old > String
+
+// let newType = Number(type);
+// console.log(newType)
+// console.log(typeof newType) //new Num
+
+// let type = "s";
+// console.log(typeof type); // old > String
+
+// let newType = Boolean(type);
+// console.log(newType)
+// console.log(typeof newType) //new Num
+
+// let srt = "Salman";
+// let last = `Naim ${str}`;
+// console.log(last);
+// document.write(last);
+
+// let str = "Salman";
+
+// let greet = `Hi ${str}`;
+
+// console.log(greet);
+
+let str = "Salman"; // Change the variable name to 'str'
+
+let last = `Naim ${str}`; // Use the correct variable name 'str'
+
+console.log(last);
+document.write(last);
